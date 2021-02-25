@@ -8,7 +8,7 @@ using System;
 
 namespace ConsoleUI
 {
-    //SOLID
+    //SOLID prensipleri
     // O : Open closed principle
     class Program
     {
